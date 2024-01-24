@@ -10,7 +10,7 @@
 .casestudy .left{
     width: 40%;
     padding: 30px 80px;
-    transition: 2s;
+    transition: 0.5s;
     transform: translateX(-100%);
 }
 
@@ -46,7 +46,7 @@ section.show-animation .casestudy .left{
     padding: 20px;
     display: flex;
     flex-direction: column;
-    transition: 2s;
+    transition: 0.5s;
     transform: translateX(100%);
 }
 
